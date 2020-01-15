@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77d1dbfe-9daa-4c5a-be9e-400275527823" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Test_SecondTest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_FirstTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test_FirstTest.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +30,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\madhuk4\PycharmProjects\FirstProject" />
+    </key>
   </component>
   <component name="RunManager" selected="Python.Test_FirstTest">
     <configuration name="HelloWorld" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -106,25 +113,33 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1224" height="107" key="GridCell.Tab.0.bottom" timestamp="1578995552016">
+    <state x="416" y="144" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579064695036">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1224" height="107" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1578995552016" />
-    <state width="1224" height="107" key="GridCell.Tab.0.center" timestamp="1578995552016">
+    <state x="416" y="144" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1579064695036" />
+    <state width="1224" height="107" key="GridCell.Tab.0.bottom" timestamp="1578997258685">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1224" height="107" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1578995552016" />
-    <state width="1224" height="107" key="GridCell.Tab.0.left" timestamp="1578995552016">
+    <state width="1224" height="107" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1578997258685" />
+    <state width="1224" height="107" key="GridCell.Tab.0.center" timestamp="1578997258684">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1224" height="107" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1578995552016" />
-    <state width="1224" height="107" key="GridCell.Tab.0.right" timestamp="1578995552016">
+    <state width="1224" height="107" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1578997258684" />
+    <state width="1224" height="107" key="GridCell.Tab.0.left" timestamp="1578997258684">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1224" height="107" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1578995552016" />
+    <state width="1224" height="107" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1578997258684" />
+    <state width="1224" height="107" key="GridCell.Tab.0.right" timestamp="1578997258685">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1224" height="107" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1578997258685" />
     <state x="341" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1578983814646">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="341" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1578983814646" />
+    <state x="0" y="329" width="609" height="351" key="find.popup" timestamp="1579064869580">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="329" width="609" height="351" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1579064869580" />
   </component>
 </project>
