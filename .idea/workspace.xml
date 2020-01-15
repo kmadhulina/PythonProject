@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="77d1dbfe-9daa-4c5a-be9e-400275527823" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_FirstTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Testcases/Test_FirstTest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_SecondTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Testcases/Test_SecondTest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testcases/Test_FirstTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Testcases/Test_FirstTest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testcases/Test_SecondTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Testcases/Test_SecondTest.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +40,7 @@
       <recent name="C:\Users\madhuk4\PycharmProjects\FirstProject" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Test_FirstTest">
+  <component name="RunManager" selected="Python.Test_FirstTest (1)">
     <configuration name="HelloWorld" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="FirstProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -54,6 +54,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HelloWorld.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test_FirstTest (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FirstProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Testcases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Testcases/Test_FirstTest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -83,10 +104,33 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Test_SecondTest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FirstProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Testcases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Testcases/Test_SecondTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Test_FirstTest" />
+        <item itemvalue="Python.Test_FirstTest (1)" />
+        <item itemvalue="Python.Test_SecondTest" />
         <item itemvalue="Python.HelloWorld" />
+        <item itemvalue="Python.Test_FirstTest" />
       </list>
     </recent_temporary>
   </component>
@@ -120,22 +164,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="416" y="144" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1579064695036" />
-    <state width="1224" height="107" key="GridCell.Tab.0.bottom" timestamp="1578997258685">
+    <state width="1259" height="242" key="GridCell.Tab.0.bottom" timestamp="1579070803026">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1224" height="107" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1578997258685" />
-    <state width="1224" height="107" key="GridCell.Tab.0.center" timestamp="1578997258684">
+    <state width="1259" height="242" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1579070803026" />
+    <state width="1259" height="242" key="GridCell.Tab.0.center" timestamp="1579070803025">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1224" height="107" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1578997258684" />
-    <state width="1224" height="107" key="GridCell.Tab.0.left" timestamp="1578997258684">
+    <state width="1259" height="242" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1579070803025" />
+    <state width="1259" height="242" key="GridCell.Tab.0.left" timestamp="1579070803025">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1224" height="107" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1578997258684" />
-    <state width="1224" height="107" key="GridCell.Tab.0.right" timestamp="1578997258685">
+    <state width="1259" height="242" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1579070803025" />
+    <state width="1259" height="242" key="GridCell.Tab.0.right" timestamp="1579070803026">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1224" height="107" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1578997258685" />
+    <state width="1259" height="242" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1579070803026" />
     <state x="341" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1578983814646">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

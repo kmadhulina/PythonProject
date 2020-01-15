@@ -1,10 +1,10 @@
-from selenium.webdriver.chrome.service import Service
 from selenium import webdriver
-
+import pytest
 
 def test_firsttest() -> object:
-    path = '/Driver/chromedriver.exe'
+    path = 'C:/Users/madhuk4/PycharmProjects/FirstProject/Driver/chromedriver.exe'
     driver = webdriver.Chrome(executable_path=path)
     driver.get('https://thetestingworld.com/testing')
     print('hello')
     driver.quit()
+
